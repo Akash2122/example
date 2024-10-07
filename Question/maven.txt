@@ -1,0 +1,15 @@
+Maven :
+
+1. what is Build tool
+2. Build tools for java
+3. maven terminology
+what is pom.xml
+maven depencencies.
+maven repositories
+maven goals
+traqnsitive dependency management 
+depency exclusion
+depedency scope
+Maven multimodule project.
+working with removen repo -> Nexis
+'
